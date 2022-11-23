@@ -5,7 +5,7 @@ in regular markdown files (`.md`), you'll write in the same flavor of markdown
 called **MyST Markdown**.
 This is a simple file to help you get started and show off some syntax.
 
-(sec:intro)
+(sec:intro)=
 ## What is MyST?
 
 MyST stands for "Markedly Structured Text". It
@@ -51,6 +51,7 @@ then the bibliography is inserted with:
 ```
 
 ## Learn more
+{cite}`ruby`.
 
 This is just a simple starter to get you [started](sec:intro).
 You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
